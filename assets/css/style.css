@@ -1,0 +1,29 @@
+body {
+    font-family: monospace;
+    line-height: 1.5;
+    margin: 20px;
+    min-height: 100%;
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 40px;
+    /* font-family: monospace; */
+}   
+
+h2 {
+    font-size: 25px;
+    color: darkslategray
+    /* font-family: monospace; */
+}
+
+h3 {
+    font-size: 18px;
+    color: gray 
+    /* font-family: monospace; */
+}
+
+header, footer {
+    display: none;
+}
+
